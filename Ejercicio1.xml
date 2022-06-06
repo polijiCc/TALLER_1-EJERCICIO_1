@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--<!DOCTYPE HechosHistoricos SYSTEM "Ejercicio1.dtd">-->
+<marcadores xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:noNamespaceSchemaLocation="Marcadores.xsd">
+    <listaventas>
+        <venta>
+            <importe>30000</importe>
+            <comprador>Yaider cordoba cordoba</comprador>
+            <vendedor>Don chucho</vendedor>
+            <fecha>2022-01-01</fecha>
+            <codigo_factura>46845212</codigo_factura>
+        </venta>
+    </listaventas>
+</marcadores>
